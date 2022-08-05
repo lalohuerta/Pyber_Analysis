@@ -3,9 +3,11 @@
 ## Overview of the analysis
 
 With this analysis we will be creating a summary Data Frame of the ride-sharing data by city type comparing quantity and fares of rides divided in three categories:
-    * Urban
-    * Suburban 
-    * Rural 
+
+* Urban
+* Suburban 
+* Rural 
+
 This analysis will provide a recommendation to the PyBer CEO for making better decisions.
 
 ## Results 
@@ -18,6 +20,10 @@ By doing the merge of all the information given and creating some graphics to vi
 
 In the next line chart you can see the total fare by city type between January and May of 2019. All the three categories maintain a positive tendency having a little increase in late February. As you can see in the rural cities the fare is the lowest and this could be due to the low total of drivers and the expensive cost. 
 
-<img src="Analysis/PyBer_fare_summary.png" width="500">
+<img src="Analysis/PyBer_fare_summary.png" width="800">
 
+## Summary 
 
+* Urban cities generate more revenue for Pyber.
+* It could be a posibility to increase the number of Drivers in rural cities in order to get the cost less expensive and more rides per month. 
+* Running a further analysis for another variables like "distance travelled" it could be more reliable to make accurate decisions. 
